@@ -1,0 +1,36 @@
+#simptom;ime;godina;pol;rasa;id
+conjunctivitis;itchiness of eye;23;Male;Black;1
+conjunctivitis;white discharge from eye;33;Male;Black;2
+conjunctivitis;eye burns or stings;20;Male;Black;3
+conjunctivitis;spots or clouds in vision;20;Male;White;4
+blepharitis;spots or clouds in vision;20;Male;White;5
+optic_neuritis;blindness;20;Male;Black;6
+conjunctivitis;cloudy eye;20;Male;Other;7
+conjunctivitis;swollen eye;26;Female;White;8
+conjunctivitis;lacrimation;22;Female;White;9
+conjunctivitis;diminished vision;40;Male;White;10
+conjunctivitis;pain in eye;40;Female;Hispanic;11
+conjunctivitis;eye redness;25;Male;Hispanic;12
+conjunctivitis;foreign body sensation in eye;33;Male;Hispanic;13
+conjunctivitis;foreign body sensation in eye,eye redness;33;Male;Hispanic;14
+conjunctivitis;itchiness of eye,blindness;21;Male;Black;15
+conjunctivitis;lacrimation,swollen eye;21;Female;White;16
+cornea_infection;lacrimation,foreign body sensation in eye;21;Female;White;17
+iridocyclitis;spots or clouds in vision,eye redness,cloudy eye,lacrimation,foreign body sensation in eye;21;Female;White;18
+macular_degeneration;spots or clouds in vision,eye redness,cloudy eye,foreign body sensation in eye;26;Male;Black;19
+retinal_detachment;pain in eye,blindness;22;Male;Other;20
+optic_neuritis;blindness,diminished vision;20;Male;Black;21
+conjunctivitis;swollen eye,cloudy eye,blindness;56;Male;White;22
+conjunctivitis;lacrimation;23;Male;Black;23
+conjunctivitis;white discharge from eye;56;Male;White;24
+conjunctivitis;lacrimation,swollen eye,spots of clouds in vision,white discharge from eye;81;Male;Other;25
+iridocyclitis;diminished vision,lacrimation,cloudy eye,spots of clouds in vision,eye burns of stings;81;Male;Other;26
+blepharitis;diminished vision,lacrimation,blindness,spots of clouds in vision,eye burns of stings;13;Male;Hispanic;27
+conjunctivitis;lacrimation,blindness,white discharge from eye;1;Male;Black;28
+iridocyclitis;lacrimation,foreign body sensation in eye,cloudy eye;1;Male;Black;29
+conjunctivitis;swollen eye;1;Male;Black;30
+iridocyclitis;pain in eye,foreign body sensation in eye;1;Male;Black;31
+conjunctivitis;diminished vision,swollen eye;1;Male;Black;32
+optic_neuritis;blindness;1;Male;Black;33
+conjunctivitis;eye burns of stings;0;Male;Black;34
+blepharitis;eye redness,double vision,lacrimation,swollen eye,blindness,eye burns of stings,itchiness of eye;24;Male;Hispanic;35
